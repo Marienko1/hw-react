@@ -1,0 +1,17 @@
+.rew {
+  width: 80%;
+  margin: auto;
+}
+
+.rew > ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: left;
+}
+
+.autor {
+  font-size: 26px;
+  font-weight: 800;
+  text-align: left;
+}

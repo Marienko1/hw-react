@@ -1,0 +1,16 @@
+.cardList {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 1rem auto;
+  padding: 0;
+  text-align: center;
+  list-style: none;
+  margin: 10px;
+}
+h1 {
+  text-align: center;
+  font-family: "Bangers", cursive;
+  color: rgb(53, 119, 119);
+  letter-spacing: 1ch;
+}
